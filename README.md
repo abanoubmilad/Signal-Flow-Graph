@@ -8,6 +8,7 @@ The application draws the signal flow graph showing nodes, branches and gains.
 lists all forward paths, individual loops, all combination of n non-touching loops.
 calculates values of delta, delta 1, .... delta m. where m is number of forward paths and measures overall system transfer function.
 
+<<<<<<< HEAD
 #####Sample Runs
 
 ![](sample_runs/s1.png?raw=true)
@@ -20,3 +21,7 @@ calculates values of delta, delta 1, .... delta m. where m is number of forward 
 ![](sample_runs/s8.png?raw=true)
 ![](sample_runs/s9.png?raw=true)
 ![](sample_runs/s10.png?raw=true)
+=======
+
+![](sample runs/1.JPG?raw=true)
+>>>>>>> origin/master
